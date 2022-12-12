@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firebase/static/css/main.7ea1515d.css",
+    "main.js": "/firebase/static/js/main.d74d1258.js",
+    "static/media/firebaseTutorial.zip": "/firebase/static/media/firebaseTutorial.ed62c7dfeaacd97e7541.zip",
+    "static/media/Structure.png": "/firebase/static/media/Structure.db26223b386c1719e7e5.png",
+    "index.html": "/firebase/index.html",
+    "main.7ea1515d.css.map": "/firebase/static/css/main.7ea1515d.css.map",
+    "main.d74d1258.js.map": "/firebase/static/js/main.d74d1258.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ea1515d.css",
+    "static/js/main.d74d1258.js"
+  ]
+}
